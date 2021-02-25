@@ -1,0 +1,5 @@
+Number of students: 7
+Average grade: 66.0
+Highest grade: 100
+Lowest grade: 12
+Student with longest name: Joseph Anderson
